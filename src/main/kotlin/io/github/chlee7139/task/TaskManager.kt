@@ -1,4 +1,4 @@
-package io.github.plus.task
+package io.github.chlee7139.task
 
 import org.bukkit.plugin.Plugin
 import org.bukkit.scheduler.BukkitRunnable

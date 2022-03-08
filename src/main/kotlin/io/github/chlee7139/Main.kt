@@ -1,8 +1,7 @@
-package io.github.plus
+package io.github.chlee7139
 
 import org.bukkit.ChatColor
 import org.bukkit.plugin.java.JavaPlugin
-import io.github.plus.task.runTaskTimer
 
 class Main : JavaPlugin() {
 
