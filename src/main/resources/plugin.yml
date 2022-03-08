@@ -1,6 +1,6 @@
 name: PlusApi
 version: 1.0
-main: io.github.plus.Main
+main: io.github.plus.io.github.plus.Main
 api-version: 1.18
 author: team-plus
 description: Api for Plus Team
